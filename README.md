@@ -1,6 +1,3 @@
-# robot-control-pad
-
-
 # Robot Control Pad
 
 This is a simple web-based robot control panel built with **PHP** and **MySQL**. The idea is that a user can control a robot from a browser, while the robot reads the latest command from the database.
